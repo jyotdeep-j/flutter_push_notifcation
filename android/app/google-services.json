@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518728667927",
+    "project_id": "davids-parts-v1-9rstyy",
+    "storage_bucket": "davids-parts-v1-9rstyy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518728667927:android:9867aebf36348499d51d52",
+        "android_client_info": {
+          "package_name": "com.mycompany.nimbus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu4bUTCvX_tmaLizDonAI4CAfbjqI-kKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
